@@ -7,7 +7,7 @@ It also includes features like user registration, login, and a blog section.
 
 # Live Site Link:
 
-The live version of this project can be accessed at Live Site Link https://client-repo-9t1j0myqd-sarowar-hossain.vercel.app/
+The live version of this project can be accessed at Live Site Link https://client-repo-sarowar-hossain.vercel.app/
 
 # Project Structure:
 
